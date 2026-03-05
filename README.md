@@ -1,6 +1,8 @@
 # AI-Based-Anomaly-Detection-Platform
 "Real-time patient monitoring demo using simulated ML pipelines."
 
+OPEN : Final_Project.ipynb File for main code and run it in colab or your Local Python Environment
+
 AI-Driven Healthcare Monitoring System
 This notebook implements a real-time medical monitoring solution. It integrates machine learning for anomaly detection with a live Flask dashboard to visualize patient vitals and manage clinical alerts.
 
