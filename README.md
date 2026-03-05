@@ -1,6 +1,7 @@
 # 🏥 AI-Driven Healthcare Anomaly Detection System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maitreiyeesharma/AI-Based-Anomaly-Detection-Platform/blob/main/medical_anomaly_engine.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maitreiyeesharma/AI-Based-Anomaly-Detection-Platform/blob/main/Final_Final_project%20(1).ipynb)
+
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
