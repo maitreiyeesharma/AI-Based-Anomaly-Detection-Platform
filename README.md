@@ -1,10 +1,8 @@
 # AI-Based-Anomaly-Detection-Platform
 "Real-time patient monitoring demo using simulated ML pipelines."
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
-
-
 OPEN : Final_Project.ipynb File for main code and run it in colab or your Local Python Environment
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maitreiyeesharma/AI-Based-Anomaly-Detection-Platform/blob/main/Final_Final_project%20(1).ipynb)
 
 AI-Driven Healthcare Monitoring System
 This notebook implements a real-time medical monitoring solution. It integrates machine learning for anomaly detection with a live Flask dashboard to visualize patient vitals and manage clinical alerts.
