@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+scikit-learn
+tensorflow
+pandas
+numpy
+plotly
+psutil
+requests
