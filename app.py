@@ -644,6 +644,8 @@ threading.Thread(target=lambda: ward_app.run(port=5010, debug=False, use_reloade
 
 print(f"[PORT 5000] COMMAND CENTER: {proxy_hud}")
 print(f"[PORT 5010] WARD OVERVIEW:  {proxy_ward}")
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=10000)
 
 """## Summary:
 
