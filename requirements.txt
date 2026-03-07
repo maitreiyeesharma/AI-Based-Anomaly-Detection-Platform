@@ -1,9 +1,6 @@
-flask
-flask-sqlalchemy
-scikit-learn
-tensorflow
-pandas
-numpy
-plotly
-psutil
-requests
+Flask==2.3.3
+tensorflow==2.13.0
+numpy==1.25.0
+pandas==2.1.1
+scikit-learn==1.3.1
+gunicorn==21.2.0
